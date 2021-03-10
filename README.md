@@ -1,1 +1,4 @@
-# pima_diabetes-
+# pima_diabetes
+
+This is simple Deep Learing code for the given dataset.
+Although we didnt have enough data, I still have give the trained model <b>diabetes_model.h5</b>
